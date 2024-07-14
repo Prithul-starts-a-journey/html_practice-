@@ -1,2 +1,3 @@
-# html_practice-
-This ia s my first repository
+# html_practice
+This is my first repository.
+I'm learning and a complete beginner.
