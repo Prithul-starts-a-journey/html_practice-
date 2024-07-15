@@ -1,4 +1,4 @@
-# html_practice
+# Git & Github practice
 This is my first repository.
 <br>
 I'm learning and a complete beginner.
