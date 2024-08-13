@@ -1,0 +1,13 @@
+body {
+    background-color: darkred;
+}
+
+h1 {
+
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    border-radius: 10px;
+    border-color: yellow;
+}
